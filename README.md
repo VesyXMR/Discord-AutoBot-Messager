@@ -54,8 +54,11 @@ Open the Developer Tools (Ctrl + Shift + I) in your browser, go to the Network t
 Look for a request that includes "messages" and check the Authorization header. Copy this token and paste it into the second line of info.txt.
 
 In summary: 
+
 1 - Open the dev tools and go to the Network tab
+
 2 - Send a message on the desired channel
+
 3 - Search for “messages” and copy the “Authorization” token
 
 ![422923519-8215d46f-32c8-4ae2-a3bc-2b29d352fcb7](https://github.com/user-attachments/assets/348ee464-7a3b-4612-82dc-abbb7149b02a)
