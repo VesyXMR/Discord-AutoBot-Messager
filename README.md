@@ -104,11 +104,13 @@ The bot will display initial banners and prompt you to choose a language (Englis
 The bot will read messages from messages.txt and send them to the specified Discord channel based on the settings in info.txt.
 While running, if you want to stop the bot and return to the menu, a red message will instruct you to press a key (or Enter) to interrupt the bot.
 To completely stop the bot, follow the on-screen instructions (or use CTRL+C if needed).
-Logs and Output
 
+# Logs and Output
 The bot prints log messages with timestamps indicating when messages are sent, delays between messages, and any errors encountered.
 
 # Additional Notes
 Security: Keep your tokens and configuration files secure.
+
 Selector Adjustments: If Discord’s or the text editor's interface changes, you might need to update the CSS selectors in the script.
+
 Customization: You can change texts, colors, and banners directly in the source code before compiling the executable.
