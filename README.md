@@ -1,6 +1,8 @@
 # Discord Auto-Messenger Bot
 This bot automates sending messages in a Discord channel. It reads the contents of a messages.txt file (each line representing one message) and uses configuration information stored in an info.txt file (containing User ID, Discord token, channel URL, and channel ID) to connect to the channel. Additionally, the bot provides an external configuration menu to edit these files using a text editor.
 
+Telegram Channel: https://t.me/cybinscrips_vesyxmr
+
 Important:
 
 This bot uses your user token to automate sending messages. Use it for testing purposes or with authorized accounts only, as using user tokens may violate Discord's Terms of Service.
