@@ -70,7 +70,7 @@ Save and close the text editor after you have made the changes.
 
 After all, you info.txt should be like this:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2a7d5fb0-a1b0-41a1-84b9-0d31ecd82669)
 
 # Editing messages.txt:
 
