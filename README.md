@@ -22,13 +22,13 @@ The bot uses two configuration files:
 
 info.txt – Should contain four lines:
 
-Line 1: User ID
+- Line 1: User ID
 
-Line 2: Discord token
+- Line 2: Discord token
 
-Line 3: Discord channel URL
+- Line 3: Discord channel URL
 
-Line 4: Discord channel ID
+- Line 4: Discord channel ID
 
 messages.txt – Each line corresponds to a message that the bot will send.
 
