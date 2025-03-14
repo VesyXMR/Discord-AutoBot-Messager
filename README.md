@@ -10,8 +10,11 @@ Join ous Telegram Channel: https://t.me/cybinscrips_vesyxmr
 
 # Requirements
 Operating System: Windows (the .exe is compiled for Windows)
+
 Embedded Files: The executable includes the info.txt and messages.txt files.
+
 Executable: The compiled file (e.g., vesyxmr_bot.exe)
+
 Optional: A text editor (e.g., Notepad on Windows) for editing configuration files
 
 # Configuration Files
@@ -20,20 +23,28 @@ The bot uses two configuration files:
 info.txt – Should contain four lines:
 
 Line 1: User ID
+
 Line 2: Discord token
+
 Line 3: Discord channel URL
+
 Line 4: Discord channel ID
+
 messages.txt – Each line corresponds to a message that the bot will send.
 
 Note:
-If you wish to edit these files within the bot, a configuration menu is provided that opens your default text editor. Remember to save and close the text editor after making changes. If you close the editor without saving, a red warning message ("No changes made. (File content is the same)") will appear.
+If you wish to edit these files within the bot, a configuration menu is provided that opens your default text editor. 
+Remember to save and close the text editor after making changes. 
+If you close the editor without saving, a red warning message ("No changes made. (File content is the same)") will appear.
 
 # Step-by-Step Usage
 
 Login & Setup Developer Mode on Discord:
 
 Login: Open your browser and log in with your Discord account.
+
 Enable Developer Mode:
+
 Go to Discord’s User Settings > Advanced and enable Developer Mode.
 
 ![422924256-739dd906-1a16-4624-a190-45e4708cf329](https://github.com/user-attachments/assets/9864c67d-ae87-489d-80d4-5a19707ba93e)
